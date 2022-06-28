@@ -1,0 +1,24 @@
+{
+  "name": "hapi-server",
+  "version": "1.0.0",
+  "description": "Build web server using Hapi (Node.js framework)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhoiran/hapi-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukhoiran/hapi-server/issues"
+  },
+  "homepage": "https://github.com/mukhoiran/hapi-server#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
